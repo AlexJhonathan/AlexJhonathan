@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+
 - 🔭 Mi nombre es Alex Jhonathan Choque Olguera
 - 🌱 Estudie en el colegio Jesús de Nazareth
 - 👯 Me gusta escuchar música y jugar videojuegos
