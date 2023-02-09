@@ -1,8 +1,8 @@
 ### Hola soy Alex
 
 - 🔭 Mi nombre es Alex Jhonathan Choque Olguera.
-- 🌱 Estudie en el colegio Jesús de Nazareth.
+- 🌱 Estudié en el colégio Jesús de Nazareth.
 - 👯 Me gusta escuchar música y jugar videojuegos.
-- 🤔 En el colegio fui muy bueno en matematicas.
-- 💬 Estudio Ingenieria de sistemas porque me gusta la tecnologia y la programacion.
-- 📫 Al salir de la universidad me gustaria desarrollar una pagina web por mi cuenta.
+- 🤔 En el colégio fui muy bueno en matemáticas.
+- 💬 Estúdio Ingenieria de Sistemas porque me gusta la tecnología y la programación.
+- 📫 Al salir de la universidad me gustaria desarrollar una página web por mi cuenta.
