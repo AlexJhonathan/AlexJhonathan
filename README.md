@@ -17,7 +17,7 @@
 
 Me encanta la tecnologia y la programacion, por lo que considero tener potencial para llegar a un gran nivel!
 
-![baner](https://github.com/AlexJhonathan/AlexJhonathan/assets/124853057/9b3faad8-9dda-4cd5-a9c3-4d25d1dc4399)
+![2313](https://github.com/AlexJhonathan/AlexJhonathan/assets/124853057/63ef0cf5-0a1c-471b-95de-e63b3afa047b)
 
 PROGRESO
 
