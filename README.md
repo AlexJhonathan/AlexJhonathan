@@ -13,3 +13,6 @@
 - 💬 Estúdio Ingenieria de Sistemas porque me gusta la tecnología y la programación.
 
 - 📫 Al salir de la universidad me gustaria desarrollar una página web por mi cuenta.
+
+
+Me encanta la tecnologia y la programacion, por lo que considero tener potencial para llegar a un gran nivel!
