@@ -19,6 +19,8 @@ Me encanta la tecnologia y la programacion, por lo que considero tener potencial
 
 PROGRESO
 
+Cuento con bases en programacion en Pseudocodigo y en lenguaje Python.
+
 He desarrollado codigo en Pseudocodigo usando Pseint y Scratch, asi como en lenguaje Python. 
 
 Ejemplos:
