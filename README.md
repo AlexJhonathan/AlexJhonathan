@@ -19,12 +19,12 @@ Me encanta la tecnologia y la programacion, por lo que considero tener potencial
 
 PROGRESO
 
-Cuento con bases en programacion en Pseudocodigo y en lenguaje Python.
+Cuento con bases en programacion en Pseudocodigo y en lenguaje Python.🌱
 
 He desarrollado codigo en Pseudocodigo usando Pseint y Scratch, asi como en lenguaje Python. 
 
 Ejemplos:
 
-- Pseint: Distintos ejercicios como Boletas de pago, Boletas de notas y mas.
-- Scratch: Un juego desde 0 basado en Bomberman.
-- Python: Distintos ejercicios como Calculadoras, y esta en proceso un software para enseñar finanzas a los niños!
+- Pseint: Distintos ejercicios como Boletas de pago, Boletas de notas y mas.💬
+- Scratch: Un juego desde 0 basado en Bomberman.💬
+- Python: Distintos ejercicios como Calculadoras, y esta en proceso un software para enseñar finanzas a los niños!💬
